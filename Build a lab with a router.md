@@ -25,7 +25,8 @@ The interface state has now changed to up and the Fa0/1 interface still loading,
 The next step was to put an **IP address on the interface**, so in this case we used the IP address **192.168.1.254  255.255.255.0**
 
 
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/3cb66cd5-7f60-4dd0-b08f-fc1a9d21b8d9" />
+<img width="750" height="87" alt="image" src="https://github.com/user-attachments/assets/3daa3e3c-440e-4e72-a2d2-8bd86880b391" />
+
 
 
 
