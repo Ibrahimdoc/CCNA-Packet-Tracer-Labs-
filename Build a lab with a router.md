@@ -53,4 +53,5 @@ For all your device essentially what you are instructing them to do is if you do
 
 ## <u>Configuring Default Gateway for PC2</U>
 
-![[Pasted image 20261102191050.png|581]]
+<img width="500" height="160" alt="image" src="https://github.com/user-attachments/assets/7e11f013-e9d9-4d0c-ac64-d1210447b4aa" />
+
