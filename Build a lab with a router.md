@@ -34,7 +34,8 @@ The next step was to put an **IP address on the interface**, so in this case we 
 
 To verify whether we can ping the switches from the Router, used the command ping and got the following results.
 
-![[Pasted image 20261102165120.png]]
+<img width="600" height="180" alt="image" src="https://github.com/user-attachments/assets/de2c5b76-b790-468f-bd49-d2d38b19b725" />
+
 
 
 ## <u>Configuring a Default Gateway </U>
