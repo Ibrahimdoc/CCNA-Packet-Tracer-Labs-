@@ -47,7 +47,8 @@ For all your device essentially what you are instructing them to do is if you do
 
 ### <u>Configuring Default Gateway for PC1</U>
 
-![[Pasted image 20261102190442.png|611]]
+<img width="500" height="160" alt="image" src="https://github.com/user-attachments/assets/00b160d0-23c8-48bd-90ca-aecce981b196" />
+
 
 
 ## <u>Configuring Default Gateway for PC2</U>
