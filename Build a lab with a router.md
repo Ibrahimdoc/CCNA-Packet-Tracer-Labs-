@@ -6,7 +6,7 @@ The key aspect is to identify, the use of the router, whether the connection has
 
 ## <u>Diagram Topology</u>
 
-![[Pasted image 20261102163814.png|700]]
+![A screenshot of a Cisco Packet Tracer network topology](20261102163814.png)
 
 
 ### <U>Router </u>
